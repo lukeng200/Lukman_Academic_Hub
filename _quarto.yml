@@ -19,7 +19,7 @@ website:
 
   navbar:
     left:
-      - href: about.qmd
+      - href: about/index.qmd
         text: About
         menu:
           - text: All posts
