@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Lukman_Academic_Hub"
+  title: "Academic Hub"
 navbar:
     right:
       - about.qmd
