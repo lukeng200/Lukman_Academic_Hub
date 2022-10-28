@@ -17,3 +17,7 @@ format:
 
 editor: visual
 
+comments:
+  giscus:
+    repo: lukeng200/Lukman_Academic_Hub
+
