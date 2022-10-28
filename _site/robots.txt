@@ -1,1 +1,1 @@
-Sitemap: https://lukeng200.com/sitemap.xml
+Sitemap: /sitemap.xml

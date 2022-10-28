@@ -2,15 +2,42 @@ project:
   type: website
 
 website:
-  title: "Academic Hub"
-  site-url: "https://lukeng200.com"
+  title: "Academic Space"
+  site-url: ""
   navbar:
+    background: "#536878"
+    left:
+      - href: about/index.qmd
+        text: About
+      - href: blog/index.qmd
+        text: Blog
+      - href: publications/index.qmd
+        text: Publications
+      - href: software/index.qmd
+        text: Software
+      - href: talks/index.qmd
+        text: Conferences / Talks
+      - href: resume/index.qmd
+        text: Resume
+        
+  page-footer:
+    left: "Blog made with 💜, [Netlify](https://www.netlify.com/), and [Quarto](https://quarto.org/), by Lucas. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
     right:
-      - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/lukeng200
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/Hadeboye
+      - icon: envelope
+        href: lsoboyejo@student.unimelb.edu.au
+    background: "#536878"
+    
+  twitter-card:
+    creator: "@Hadeboye"
+    card-style: summary_large_image
+
+date-format: "D MMMM YYYY"
+
+
 format:
   html:
     smooth-scroll: true
