@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Academic Space"
+  title: "Academic Blog"
   site-url: ""
   page-footer:
     left: "Blog made with 💜, [Netlify](https://www.netlify.com/), and [Quarto](https://quarto.org/), by Lucas. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
@@ -19,14 +19,14 @@ website:
 
   navbar:
     left:
-      - href: about/index.qmd
+      - href: about.qmd
         text: About
         menu:
           - text: All posts
             href: posts/index.qmd
           - text: English
-      - href: blog/index.qmd
-        text: Blog
+      - href: news/index.qmd
+        text: News
       - href: publications/index.qmd
         text: Publications
       - href: software/index.qmd
