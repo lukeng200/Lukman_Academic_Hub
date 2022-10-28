@@ -14,10 +14,12 @@ format:
   html:
     theme: minty
     css: styles.css
-
-editor: visual
-
+    
 comments:
   giscus:
     repo: lukeng200/Lukman_Academic_Hub
+
+editor: visual
+
+
 
