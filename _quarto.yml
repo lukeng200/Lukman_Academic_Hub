@@ -2,13 +2,19 @@ project:
   type: website
 
 website:
-  title: "Academic Hub"
+  title: "Lukman Adeboye Soboyejo"
+  site-url: "https://beamilz.com/"
+  google-analytics: "G-2J79YYG9CZ"
+  page-footer:
+    left: "Blog made with 💜 and [Quarto](https://quarto.org/), by Lukman Adeboye Soboyejo. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
 navbar:
     right:
       - about.qmd
       - text: Posts
+      - text: Resume
+        href: https://github.com/lukeng200/lukeng200.github.io/blob/master/CV.pdf
       - icon: github
-        href: https://github.com/
+        href: https://github.com/lukeng200
       - icon: twitter
         href: https://twitter.com/Hadeboye
 format:
@@ -18,7 +24,7 @@ format:
     css: styles.css
     link-external-icon: false
     link-external-newwindow: true
-    link-external-filter: ''
+    link-external-filter: '^(?:http:|https:)\/\/www\.lukman-academic-hub\.netlify.app\/**'
     citations-hover: true
     footnotes-hover: true
     include-in-header: meta.html
