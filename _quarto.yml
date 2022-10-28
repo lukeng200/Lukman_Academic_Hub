@@ -13,18 +13,10 @@ website:
         href: https://twitter.com/Hadeboye
       - icon: envelope
         href: lsoboyejo@student.unimelb.edu.au
-  twitter-card:
-    creator: "@Hadeboye"
-    card-style: summary_large_image    
 
   navbar:
     left:
-      - href: about/index.qmd
-        text: About
-        menu:
-          - text: All posts
-            href: posts/index.qmd
-          - text: English
+      - about.qmd
       - href: news/index.qmd
         text: News
       - href: publications/index.qmd
