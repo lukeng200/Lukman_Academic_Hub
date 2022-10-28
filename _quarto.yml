@@ -4,11 +4,27 @@ project:
 website:
   title: "Academic Space"
   site-url: ""
+  page-footer:
+    left: "Blog made with 💜, [Netlify](https://www.netlify.com/), and [Quarto](https://quarto.org/), by Lucas. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+    right:
+      - icon: github
+        href: https://github.com/lukeng200
+      - icon: twitter
+        href: https://twitter.com/Hadeboye
+      - icon: envelope
+        href: lsoboyejo@student.unimelb.edu.au
+  twitter-card:
+    creator: "@Hadeboye"
+    card-style: summary_large_image    
+
   navbar:
-    background: "#536878"
     left:
       - href: about/index.qmd
         text: About
+        menu:
+          - text: All posts
+            href: posts/index.qmd
+          - text: English
       - href: blog/index.qmd
         text: Blog
       - href: publications/index.qmd
@@ -20,29 +36,22 @@ website:
       - href: resume/index.qmd
         text: Resume
         
-  page-footer:
-    left: "Blog made with 💜, [Netlify](https://www.netlify.com/), and [Quarto](https://quarto.org/), by Lucas. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
-    right:
-      - icon: github
-        href: https://github.com/lukeng200
-      - icon: twitter
-        href: https://twitter.com/Hadeboye
-      - icon: envelope
-        href: lsoboyejo@student.unimelb.edu.au
-    background: "#536878"
-    
-  twitter-card:
-    creator: "@Hadeboye"
-    card-style: summary_large_image
-
 date-format: "D MMMM YYYY"
 
 
 format:
   html:
     smooth-scroll: true
-    theme: tango
+    theme: journal
     css: styles.css
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: ''
+    citations-hover: true
+    footnotes-hover: true
+    include-in-header: meta.html
+    toc: true
+    code-link: true
     
     
 comments:
