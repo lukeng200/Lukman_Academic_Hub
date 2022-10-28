@@ -1,5 +1,6 @@
 ---
-title: "About"
+title: "Lucas"
+comments: false
 image: Me.jpg
 about:
   template: trestles
@@ -18,7 +19,7 @@ about:
 <center>
 
 ::: {.btn-group role="group" aria-label="About"}
-<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="about-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Português</button></a> <a href="about-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a>
+<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">BSc</button></a> <a href="about-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">MSc</button></a> <a href="about-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">PhD</button></a>
 :::
 
 </center>
