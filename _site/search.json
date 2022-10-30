@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "Lucas",
     "section": "",
-    "text": "Bachelor Degree  Master Degree Doctorate\n\n\n\nHi!\nMy name is Lukman, and I am from Nigeria 💜.\nI’m a PhD Candidate at the University of Melbourne, in Environmental Sciences. My research is about river morphology."
+    "text": "About Me  Motivation Future Goal\n\n\n\nHi!\nMy name is Lukman Adeboye Soboyejo, and I am from West-Africa, Nigeria 💜."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,19 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "Resume/Resume.html",
+    "href": "Resume/Resume.html",
+    "title": "CV",
+    "section": "",
+    "text": "Click here to view my CV as an isolated PDF.\n\n\n\n\nIt appears you don’t have a PDF plugin for this browser. Click above to view my CV."
+  },
+  {
+    "objectID": "resume/index.html",
+    "href": "resume/index.html",
+    "title": "CV",
+    "section": "",
+    "text": "Click here to view my CV as an isolated PDF.\n\n\n\n\nIt appears you don’t have a PDF plugin for this browser. Click above to view my CV."
   }
 ]

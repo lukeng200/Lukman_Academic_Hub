@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://lukman-academic-hub.netlify.app/sitemap.xml

@@ -19,7 +19,7 @@ about:
 <center>
 
 ::: {.btn-group role="group" aria-label="About"}
-<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Bachelor Degree</button></a> <a href="about-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Master Degree</button></a> <a href="about-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Doctorate</button></a>
+<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">About Me</button></a> <a href="about-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Motivation</button></a> <a href="about-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Future Goal</button></a>
 :::
 
 </center>
