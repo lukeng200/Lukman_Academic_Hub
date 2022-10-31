@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Academic Blog"
+  title: "Lukman Adeboye Soboyejo"
   site-url: "https://lukman-academic-hub.netlify.app/"
   page-footer:
     left: "Blog made with 💜, [Netlify](https://www.netlify.com/), and [Quarto](https://quarto.org/), by Lucas. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
@@ -13,28 +13,35 @@ website:
         href: https://twitter.com/Hadeboye
       - icon: envelope
         href: lsoboyejo@student.unimelb.edu.au
+  twitter-card:
+    creator: "@Hadeboye"
+    card-style: summary_large_image
 
 # site navigation
   navbar:
-    left:
+    right:
       - about.qmd
-      - href: news/index.qmd
-        text: News
-      - href: publications/index.qmd
-        text: Publications
-      - href: software/index.qmd
-        text: Software
-      - href: talks/index.qmd
-        text: Conferences / Talks
-      - href: resume/index.qmd
-        text: Resume
+      - text: News
+        menu:
+        - text: All post
+          href: news/index.qmd
+      - text: Publications
+        href: publications/index.qmd
+      - text: Software
+        href: software/index.qmd
+      - text: Conferences / Talks
+        href: talks/index.qmd
+      - text: Resume
+        href: resume/index.qmd
         
+
+    
 date-format: "D MMMM YYYY"
 
 format:
   html:
     smooth-scroll: true
-    theme: journal
+    theme: slate
     css: styles.css
     link-external-icon: false
     link-external-newwindow: true
@@ -46,7 +53,7 @@ format:
     code-link: true
     
 
-comments:
+comments: 
   giscus:
     repo: lukeng200/Lukman_Academic_Hub
 

@@ -1,31 +1,31 @@
 ---
-title: "Lucas"
-comments: false
-image: Me.jpg
+title: "Lucas (About Me!)"
+image: passport.jpg
 about:
   template: trestles
+  image: passport.jpg
   links:
-    - icon: envelope
-      text: Email
-      href: lsoboyejo@student.unimelb.edu.au
-    - icon: github
-      text: GitHub
-      href: https://github.com/lukeng200
     - icon: twitter
-      text: Twitter
-      href: https://twitter.com/Hadeboye 
+      text: twitter
+      href: https://twitter.com/Hadeboye
+    - icon: github
+      text: github
+      href: https://github.com/lukeng200
+    - icon: envelope
+      text: mail
+      href: mailto:lsoboyejo@student.unimelb.edu.au
+comments: false
 ---
-
-<center>
-
-::: {.btn-group role="group" aria-label="About"}
-<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">About Me</button></a> <a href="about-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Motivation</button></a> <a href="about-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Future Goal</button></a>
-:::
 
 </center>
 
 ::: {#hero-heading}
-Hi!
+Life is a function that depends on many variables (family, colleagues, friends, and many more).
 
-My name is Lukman Adeboye Soboyejo, and I am from West-Africa, Nigeria 💜.
+**Lukman Adeboye Soboyejo**<br>PhD Student<br>[](https://thewerg.org/)<br> [Univeristy of Melbourne](https://ecosystemforest.unimelb.edu.au/research), Australia.
 :::
+
+<center>
+
+
+

@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Lukman Adeboye Soboyejo",
+    "title": "Listing Example",
     "section": "",
     "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\n28 October 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\n25 October 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Lucas",
+    "title": "Lucas (About Me!)",
     "section": "",
-    "text": "About Me  Motivation Future Goal\n\n\n\nHi!\nMy name is Lukman Adeboye Soboyejo, and I am from West-Africa, Nigeria 💜."
+    "text": "Life is a function that depends on many variables (family, colleagues, friends, and many more).\nLukman Adeboye SoboyejoPhD Student Univeristy of Melbourne, Australia."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -37,8 +37,22 @@
   {
     "objectID": "resume/index.html",
     "href": "resume/index.html",
-    "title": "CV",
+    "title": "Résumé",
     "section": "",
-    "text": "Click here to view my CV as an isolated PDF.\n\n\n\n\nIt appears you don’t have a PDF plugin for this browser. Click above to view my CV."
+    "text": "Click here to view my CV as an isolated PDF"
+  },
+  {
+    "objectID": "resume/index.html#bio",
+    "href": "resume/index.html#bio",
+    "title": "Résumé",
+    "section": "Bio",
+    "text": "Bio\nThe following bio and this photo may be used in media releases without further permission.\n\nLukman Adeboye Soboye is graduate researcher in the Department of Ecosytem and Forest services at University of Melbourne.\n\n\n\n\n\nCurriculum Vitae\n\n\nGoogle Scholar\n\n\nORCID\n\n\n\n\n\nGitHub\n\n\nTwitter\n\n\nWikipedia"
+  },
+  {
+    "objectID": "resume/index.html#address",
+    "href": "resume/index.html#address",
+    "title": "Résumé",
+    "section": "Address",
+    "text": "Address\n\n\n\n\n\n\nputlocker\n\ngoogle map in website"
   }
 ]

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lukeng200.com/index.html</loc>
-    <lastmod>2022-10-28T21:29:36.672Z</lastmod>
+    <lastmod>2022-10-31T05:06:23.200Z</lastmod>
   </url>
   <url>
     <loc>/index.html</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://lukman-academic-hub.netlify.app/about.html</loc>
-    <lastmod>2022-10-30T07:43:53.945Z</lastmod>
+    <lastmod>2022-10-31T09:45:49.242Z</lastmod>
   </url>
   <url>
     <loc>https://lukman-academic-hub.netlify.app/Resume/Resume.html</loc>
@@ -22,10 +22,18 @@
   </url>
   <url>
     <loc>https://lukman-academic-hub.netlify.app/index.html</loc>
-    <lastmod>2022-10-30T07:37:01.117Z</lastmod>
+    <lastmod>2022-10-31T08:24:01.938Z</lastmod>
   </url>
   <url>
     <loc>https://lukman-academic-hub.netlify.app/resume/index.html</loc>
-    <lastmod>2022-10-30T07:47:55.384Z</lastmod>
+    <lastmod>2022-10-31T09:49:36.620Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lukeng200.com/about.html</loc>
+    <lastmod>2022-10-31T05:09:08.601Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lukman-academic-hub.netlify.app/posts/welcome/index.html</loc>
+    <lastmod>2022-10-31T05:16:43.721Z</lastmod>
   </url>
 </urlset>
