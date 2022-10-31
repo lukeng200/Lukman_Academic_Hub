@@ -82,5 +82,11 @@
   },
   "publications/index.qmd": {
     "index.html": "474897dc"
+  },
+  "publications/yule-walker-estimates-for-continuous-time-autoregressive-models/index.md": {
+    "index.html": "3f19adde"
+  },
+  "publications/Different-processes-affecting-long-term-Ravenna-coastal-drainage-basins/index.md": {
+    "index.html": "caf0c058"
   }
 }

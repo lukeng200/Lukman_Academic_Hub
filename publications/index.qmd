@@ -1,12 +1,12 @@
 ---
-pagetitle: "Publications"
+pagetitle: "Papers"
 listing:
-  contents: ""
+  contents: "."
   template: pubs.ejs
   sort: "date desc"
   feed:
-    title: "Publications by Rob J Hyndman"
-    description: "Working papers and published articles by Professor Rob J Hyndman"
+    title: ""
+    description: ""
   categories: true
   sort-ui: false
   filter-ui: [date, title, author, details]
