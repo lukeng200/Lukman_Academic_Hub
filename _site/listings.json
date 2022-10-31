@@ -5,5 +5,13 @@
       "/posts/post-with-code/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/Publications/index.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": []
   }
 ]

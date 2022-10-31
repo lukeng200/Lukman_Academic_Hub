@@ -1,0 +1,22 @@
+---
+pagetitle: "Publications"
+listing:
+  contents: ""
+  template: pubs.ejs
+  sort: "date desc"
+  feed:
+    title: "Publications by Rob J Hyndman"
+    description: "Working papers and published articles by Professor Rob J Hyndman"
+  categories: true
+  sort-ui: false
+  filter-ui: [date, title, author, details]
+  date-format: "YYYY"
+  page-size: 999
+sidebar: false
+page-layout: full
+title-block-banner: false
+language:
+  listing-page-field-categories: "Type"
+---
+
+## Papers

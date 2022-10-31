@@ -1,9 +1,9 @@
 ---
 title: "Lucas (About Me!)"
-image: passport.jpg
+image: head_1.jpg
 about:
   template: trestles
-  image: passport.jpg
+  image: head_1.jpg
   links:
     - icon: twitter
       text: twitter
@@ -22,10 +22,7 @@ comments: false
 ::: {#hero-heading}
 Life is a function that depends on many variables (family, colleagues, friends, and many more).
 
-**Lukman Adeboye Soboyejo**<br>PhD Student<br>[](https://thewerg.org/)<br> [Univeristy of Melbourne](https://ecosystemforest.unimelb.edu.au/research), Australia.
+**Lukman Adeboye Soboyejo**<br>PhD Student<br><br> [Univeristy of Melbourne](https://ecosystemforest.unimelb.edu.au/research), Australia.
 :::
 
 <center>
-
-
-

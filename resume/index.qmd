@@ -4,43 +4,85 @@ title:  'Résumé'
 comments: false
 ---
 
-<p class="lead"><a href="cv.pdf">Click here</a> to view my CV as an isolated PDF</p></p><object data="CV.pdf" type="application/pdf" width="100%" height="800px">
+<p class="lead">
+
+<a href="cv.pdf">Click here</a> to view my CV as an isolated PDF
+
 </p>
 
+</p>
+
+<object data="CV.pdf" type="application/pdf" width="100%" height="800px">
+
+</p>
 
 ## Bio
 
-The following bio and [**this photo**](../me.jpg) may be used in media releases without further permission.
+The following bio and [**this photo**](../images/me.jpg) may be used in media releases without further permission.
 
->**Lukman Adeboye Soboye** is graduate researcher in the [Department of Ecosytem and Forest services](https://ecosystemforest.unimelb.edu.au/research) at [University of Melbourne](https://www.unimelb.edu.au/).
+> **Lukman Adeboye Soboye** is graduate researcher in the [Department of Ecosytem and Forest services](https://ecosystemforest.unimelb.edu.au/research) at [University of Melbourne](https://www.unimelb.edu.au/).
 
-:::: {.columns}
-
+::: columns
 ::: {.column width="30%"}
-
 <ul class="fa-ul">
-  <li><a href=""><i class="fa-li fa-regular fa-file-pdf"></i>Curriculum Vitae</a></li>
-  <li><a href=""><i class="fa-li ai ai-google-scholar" style="padding-top:4px;"></i>Google Scholar</a></li>
-  <li><a href=""><i class="fa-li ai ai-orcid" style="padding-top:4px;"></i>ORCID</a></li>
-</ul>
 
+<li><a href=""><i class="fa-li fa-regular fa-file-pdf"></i>Curriculum Vitae</a></li>
+
+<li><a href=""><i class="fa-li ai ai-google-scholar" style="padding-top:4px;"></i>Google Scholar</a></li>
+
+<li><a href=""><i class="fa-li ai ai-orcid" style="padding-top:4px;"></i>ORCID</a></li>
+
+</ul>
 :::
 
 ::: {.column width="30%"}
 <ul class="fa-ul">
-  <li><a href=""><i class="fa-li fa-brands fa-github"></i>GitHub</a></li>
-  <li><a href=""><i class="fa-li fa-brands fa-twitter"></i>Twitter</a></li>
-  <li><a href=""><i class="fa-li fa-brands fa-wikipedia-w"></i>Wikipedia</a></li>
+
+<li><a href=""><i class="fa-li fa-brands fa-github"></i>GitHub</a></li>
+
+<li><a href=""><i class="fa-li fa-brands fa-twitter"></i>Twitter</a></li>
+
+<li><a href=""><i class="fa-li fa-brands fa-wikipedia-w"></i>Wikipedia</a></li>
+
 </ul>
-
 :::
-
-::::
+:::
 
 ## Address
 
-<!-- **Mail:** [Department of Econometrics & Business Statistics](https://monash.edu/business/ebs), [Monash University](https://monash.edu/), Clayton VIC 3800, Australia. -->
+**Mail:** School of Ecosystem and Forest Sciences\](https://ecosystemforest.unimelb.edu.au/), [University of Melbourne](https://www.unimelb.edu.au/), 500 Yarra Boulevard, Richmond, Victoria 3121, Australia.
 
-<!-- **Office:** Room 355, 29 Ancora Imparo Way, Clayton campus, [Monash University](https://monash.edu/), VIC 3800, Australia. -->
+**Office:** Engineering Facilities, Building 903, Burnley campus, [University of Melbourne](https://www.unimelb.edu.au/), 500 Yarra Boulevard, Richmond, Victoria 3121, Australia.
 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=39%20lonsdale%20street&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org">putlocker</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">google map in website</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
+::: mapouter
+::: gmap_canvas
+<iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=500%20Yarra%20Boulevard,%20Richmond,%20Victoria%203121,%20Australia&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
+
+</iframe>
+
+<a href="https://putlocker-is.org">putlocker</a><br>
+
+```{=html}
+<style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style>
+```
+<a href="https://www.embedgooglemap.net">google map in website</a>
+
+```{=html}
+<style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
+```
+:::
+:::
+
+## In the news
+
+Here is a list of [recent news articles about me](../news.qmd).
+
+## Administrative responsibilities
+
+## Fellowships and Memberships
+
+## Trivia
+
+## Other interests
+
+## Family websites

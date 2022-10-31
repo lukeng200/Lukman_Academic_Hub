@@ -16,5 +16,71 @@
   },
   "resume/index.qmd": {
     "index.html": "d6902ecc"
+  },
+  "Publications/index.qmd": {
+    "index.html": "af1a1ecb"
+  },
+  "publications/25-years-of-time-series-forecasting/index.md": {
+    "index.html": "3d75efd4"
+  },
+  "publications/a-change-of-editors/index.md": {
+    "index.html": "5c0f29f6"
+  },
+  "publications/a-note-on-the-categorization-of-demand-patterns/index.md": {
+    "index.html": "3167527e"
+  },
+  "publications/accuracy-intermittent-demand/index.md": {
+    "index.html": "3b8123dc"
+  },
+  "publications/aihw2012.md": {
+    "aihw2012.html": "750e976e"
+  },
+  "publications/aihw2017/index.md": {
+    "index.html": "7e6e8bd6"
+  },
+  "publications/another-look-at-measures-of-forecast-accuracy/index.md": {
+    "index.html": "4dbd51da"
+  },
+  "publications/another-look-at-measures-of-forecast-accuracy-for-intermittent-demand/index.md": {
+    "index.html": "640f3343"
+  },
+  "publications/approximations-and-boundary-conditions-for-continuous-time-threshold-autoregressive-processes/index.md": {
+    "index.html": "0075e6aa"
+  },
+  "publications/ar1-models/index.md": {
+    "index.html": "933c5003"
+  },
+  "publications/arima-processes/index.md": {
+    "index.html": "109f4c67"
+  },
+  "publications/aupec2010/index.md": {
+    "index.html": "663950ab"
+  },
+  "publications/aus-domestic-tourism/index.md": {
+    "index.html": "f6ed64bd"
+  },
+  "publications/ausmacrodata/index.md": {
+    "index.html": "6c4d37f1"
+  },
+  "publications/ausmacrofcast/index.md": {
+    "index.html": "a8796c93"
+  },
+  "publications/automatic-forecasting/index.md": {
+    "index.html": "46f984aa"
+  },
+  "publications/bagging-ets/index.md": {
+    "index.html": "285a16e4"
+  },
+  "publications/bagging-uncertainty/index.md": {
+    "index.html": "b11d5974"
+  },
+  "publications/bagplots-boxplots-and-outlier-detection-for-functional-data/index.md": {
+    "index.html": "02ff4e0b"
+  },
+  "publications/bandwidth-selection-for-kernel-conditional-density-estimation/index.md": {
+    "index.html": "7c72c420"
+  },
+  "publications/index.qmd": {
+    "index.html": "474897dc"
   }
 }
