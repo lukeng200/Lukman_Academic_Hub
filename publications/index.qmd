@@ -1,5 +1,5 @@
 ---
-pagetitle: "Papers"
+pagetitle: "Publications"
 listing:
   contents: "."
   template: pubs.ejs
