@@ -1,14 +1,15 @@
 ---
-author: Lukman Adeboye Soboyejo
+author: Lukman A. Soboyejo; Beatrice M.S. Giambastiani; Mario Molducci; Marco Antonellini;
 Status: Published
 date: 2021-07-26 02:06:56+00:00
 slug: Different-processes-affecting-long-term-Ravenna-coastal-drainage-basins
 title: Different processes affecting long-term Ravenna coastal drainage basins (Italy)- implications for water management
-details: <em>Environmental Earth Sciences</em> <b>14</b>, 281-296
+details: <em>Environmental Earth Sciences</em> <b>80 (15)</b>, 493
 status: Published
 categories: Articles
 tags:
-- time series
+- subsidence
+- drainage basin
 doi: https://doi.org/10.1007/s12665-021-09774-5
 ---
 

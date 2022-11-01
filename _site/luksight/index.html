@@ -6,10 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Lukman A. Soboyejo; Beatrice M.S. Giambastiani; Mario Molducci; Marco Antonellini;">
-<meta name="dcterms.date" content="2021-07-26">
+<meta name="description" content="Thoughts on research, coastal management, groundwater resources, river morphology, and other distractions">
 
-<title>Lukman Adeboye Soboyejo - Different processes affecting long-term Ravenna coastal drainage basins (Italy)- implications for water management</title>
+<title>Lukman Adeboye Soboyejo - Academic Insight</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,22 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,12 +61,42 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../../styles.css">
-<meta name="twitter:title" content="Lukman Adeboye Soboyejo - Different processes affecting long-term Ravenna coastal drainage basins (Italy)- implications for water management">
-<meta name="twitter:description" content="The low-lying coastal basins of Ravenna (Italy) are at or below mean sea level and currently undergoing land subsidence, which exposes the basins to frequent inundation and groundwater and soil…">
+<link rel="stylesheet" href="../styles.css">
+<link rel="alternate" type="application/rss+xml" title="Luksight" href="index.xml"><meta name="twitter:title" content="Lukman Adeboye Soboyejo - Academic Insight">
+<meta name="twitter:description" content="Thoughts on research, coastal management, groundwater resources, river morphology, and other distractions">
 <meta name="twitter:creator" content="@Hadeboye">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -77,7 +108,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Lukman Adeboye Soboyejo</span>
     </a>
   </div>
@@ -87,8 +118,8 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html">
- <span class="menu-text">Lucas (About Me!)</span></a>
+    <a class="nav-link active" href="../luksight/index.html" aria-current="page">
+ <span class="menu-text">Luksight blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-news" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -96,26 +127,26 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-news">    
         <li>
-    <a class="dropdown-item" href="../../news/index.qmd">
+    <a class="dropdown-item" href="../news/index.qmd">
  <span class="dropdown-text">All post</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../../publications/index.html">
+    <a class="nav-link" href="../publications/index.html">
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../software/index.qmd">
+    <a class="nav-link" href="../software/index.qmd">
  <span class="menu-text">Software</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../talks/index.qmd">
+    <a class="nav-link" href="../talks/index.qmd">
  <span class="menu-text">Conferences / Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../resume/index.html">
- <span class="menu-text">Resume</span></a>
+    <a class="nav-link" href="../about/index.html">
+ <span class="menu-text">About</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -124,78 +155,55 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Topics</h5><div class="quarto-listing-category category-cloud"></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Different processes affecting long-term Ravenna coastal drainage basins (Italy)- implications for water management</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">Articles</div>
-  </div>
-  </div>
+<h1 class="title">Academic Insight</h1>
+</div>
 
-
-
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Authors</div>
-    <div class="quarto-title-meta-contents">
-            <p>Lukman A. Soboyejo; Beatrice M.S. Giambastiani; Mario Molducci; Marco Antonellini; 
-      </p>
-          </div>
-  </div>
-  
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">26 July 2021</p>
-    </div>
-  </div>
-  
-  <div>
-    <div class="quarto-title-meta-heading">Publication details</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">
-                <em>Environmental Earth Sciences</em> <b>80 (15)</b>, 493
-              </p>
-    </div>
-  </div>
-
-  <div>
-    <div class="quarto-title-meta-heading">Links</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date" style="color: #fff !important;">
-            <a href="https://doi.org/https://doi.org/10.1007/s12665-021-09774-5" class="badge badge badge-blue">DOI</a>
-                                          
-      
-      
-      
-      <span data-doi="https://doi.org/10.1007/s12665-021-09774-5" data-hide-no-mentions="true" class="altmetric-embed"></span>
-      
-      </p>
-    </div>
-
+<div>
+  <div class="description">
+    Thoughts on research, coastal management, groundwater resources, river morphology, and other distractions
   </div>
 </div>
 
 
+<div class="quarto-title-meta">
 
-<p>&nbsp;</p>
+    
+  
+    
+  </div>
+  
+
 </header>
 
-<p>The low-lying coastal basins of Ravenna (Italy) are at or below mean sea level and currently undergoing land subsidence, which exposes the basins to frequent inundation and groundwater and soil salinization. The surface water drainage becomes necessary to lower the water table head and further prevent flooding and waterlogging. The study examines the evolution of drainage apropos to climate change and land subsidence in the three main Ravenna coastal basins. Our findings show that the evolution of drainage is influenced by land subsidence, climate change variability, droughts, vertical seepage, and local water management. Land subsidence causes an increase in upward-directed vertical seepage of saline water through the shallow unconfined aquifer into the drainage channels of the coastal basins, thus leading to an increase in drainage through time. At a seasonal timescale, the rate of pumping depends on antecedent rainfall and soil–water storage. The warming extremes indices, specifically drought indices, show to be more significant than rainfall indices trends to monitor drainage evolution. Drought indices permit easy comparison of dryness or wetness severity with drainage evolution along their time scale. The co-occurring anthropogenic and natural factors involving in the increasing drainage rate will affect decadal and seasonal water management policies in the area. The implications of increasing drainage rates, long periods of drought with limited rainfall, and increasing temperature will further worsen freshwater availability in this coastal area already experiencing soil and water salinization. However, drainage of this low-lying territory has effectively mitigated rising water tables and avoided flooding. Our study has shown that each coastal basin behaves differently in terms of sensitivity to land subsidence and climate extremes. Therefore, when using drainage data time series for water management purposes, one should account for past management practices and for the specific sensitivity of each basin to external factors.</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -343,12 +351,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
 });
 </script>
-<script src="https://giscus.app/client.js" data-repo="lukeng200/Lukman_Academic_Hub" data-repo-id="R_kgDOIU93kw" data-category="General" data-category-id="DIC_kwDOIU93k84CSP7E" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
-</script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">Blog made with 💜, <a href="https://www.netlify.com/">Netlify</a>, and <a href="https://quarto.org/">Quarto</a>, by Lucas. License: <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</div>   
+    <div class="nav-footer-left">© 1996-2022, Lukman A Soboyejo</div>   
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
@@ -364,7 +370,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     </a>
   </li>  
     <li class="nav-item compact">
-    <a class="nav-link" href="../../lsoboyejo@student.unimelb.edu.au">
+    <a class="nav-link" href="../lsoboyejo@student.unimelb.edu.au">
       <i class="bi bi-envelope" role="img">
 </i> 
     </a>
@@ -376,6 +382,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-
-<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
