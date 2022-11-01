@@ -20,9 +20,9 @@ comments: false
 </center>
 
 ::: {#hero-heading}
-Life is a function that depends on many variables (family, colleagues, friends, and many more).
+> Life is a function that depends on many variables (the most high, family, colleagues, friends, supervisors, and many more).
 
-**Lukman Adeboye Soboyejo**<br>PhD Student<br><br> [Univeristy of Melbourne](https://ecosystemforest.unimelb.edu.au/research), Australia.
+**Lukman Adeboye Soboyejo**<br>Currently a PhD Student <br><br>at the [Univeristy of Melbourne](https://ecosystemforest.unimelb.edu.au/research), Australia.
 :::
 
 <center>
