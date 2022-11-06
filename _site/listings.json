@@ -31,5 +31,9 @@
   {
     "listing": "/luksight/index.html",
     "items": []
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": []
   }
 ]
