@@ -1,8 +1,10 @@
 project:
   type: website
+  preview:
+    port: 4200
 
 website:
-  title: "Lukman A. Soboyejo"
+  title: "Lukman Adeboye Soboyejo"
   page-navigation: true
   site-url: "https://lukman-academic-hub.netlify.app/"
   page-footer:
