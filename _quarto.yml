@@ -4,69 +4,149 @@ project:
     port: 4200
 
 website:
-  title: "Lukman Soboyejo"
   page-navigation: true
-  site-url: "https://lucas-shubby.netlify.app/"
+  title: "Bea Milz"
+  site-url: "https://beamilz.com/"
+  google-analytics: "G-2J79YYG9CZ"
   page-footer:
-    # left: "Blog made with 💜, [Netlify](https://www.netlify.com/), and [Quarto](https://quarto.org/), by Lucas. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
-    left:  "© 1996-2023, Lukman A. Soboyejo"
-    background: "#536878" 
+    left: "Blog made with 💜 and [Quarto](https://quarto.org/), by Beatriz Milz. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
     right:
       - icon: github
-        href: https://github.com/lukeng200
+        href: https://github.com/beatrizmilz/
       - icon: twitter
-        href: https://twitter.com/Hadeboye
+        href: https://twitter.com/BeaMilz
       - icon: envelope
-        href: lsoboyejo@student.unimelb.edu.au
+        href: mailto:milz.bea@gmail.com
   twitter-card:
-    creator: "@Hadeboye"
+    creator: "@beamilz"
     card-style: summary_large_image
-    
-    
-    
-# site navigation
   navbar:
-    background: "#536878"
     right:
-      - href: luksight/index.qmd
-        text: Blog
-      - text: News
+      - about.qmd
+      - text: Posts
         menu:
-        - text: All post
-          href: news/index.qmd
-      - text: Publications
-        href: publications/index.qmd
-      - text: Software
-        href: software/index.qmd
-      - text: Conferences / Talks
-        href: talks/index.qmd
-      - text: About
-        href: about/index.qmd
+          - text: All posts
+            href: posts/index.qmd
+          - text: English
+            href: posts/en.qmd
+          - text: Português
+            href: posts/pt.qmd
+          - text: Español
+            href: posts/es.qmd
 
-    
-date-format: "D MMMM YYYY"
-freeze: true
+      - text: Series
+        menu:
+          - text: GitHub Actions
+            href: series-gha.qmd
+      - text: Talks
+        menu:
+          - text: All/Todas
+            href: talks/index.qmd
+          - text: English
+            href: talks/en/index.qmd
+          - text: Português
+            href: talks/pt/index.qmd
+          - text: Español
+            href: talks/es/index.qmd
+      - quarto.qmd
+      - text: Resume
+        href: https://beatrizmilz.github.io/resume/index.pdf
+      - icon: github
+        href: https://github.com/beatrizmilz/blog-en
+      - icon: twitter
+        href: https://twitter.com/BeaMilz
 
 format:
   html:
     smooth-scroll: true
-    theme: minty
+    theme: journal
     css: styles.css
     link-external-icon: false
     link-external-newwindow: true
-    link-external-filter: ''
+    link-external-filter: '^(?:http:|https:)\/\/www\.beamilz\.com\/**'
     citations-hover: true
     footnotes-hover: true
-    include-in-header: meta.html
     toc: true
     code-link: true
-   
-
-
-comments: 
-  giscus:
-    repo: lukeng200/Lukman_Academic_Hub
 
 editor: visual
+
+comments:
+  giscus:
+    repo: beatrizmilz/blog-en
+
+execute:
+  freeze: true
+
+# project:
+#   type: website
+#   preview:
+#     port: 4200
+# 
+# website:
+#   title: "Lukman Soboyejo"
+#   page-navigation: true
+#   site-url: "https://lucas-shubby.netlify.app/"
+#   page-footer:
+#     # left: "Blog made with 💜, [Netlify](https://www.netlify.com/), and [Quarto](https://quarto.org/), by Lucas. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
+#     left:  "© 1996-2023, Lukman A. Soboyejo"
+#     background: "#536878" 
+#     right:
+#       - icon: github
+#         href: https://github.com/lukeng200
+#       - icon: twitter
+#         href: https://twitter.com/Hadeboye
+#       - icon: envelope
+#         href: lsoboyejo@student.unimelb.edu.au
+#   twitter-card:
+#     creator: "@Hadeboye"
+#     card-style: summary_large_image
+#     
+#     
+#     
+# # site navigation
+#   navbar:
+#     background: "#536878"
+#     right:
+#       - href: luksight/index.qmd
+#         text: Blog
+#       - text: News
+#         menu:
+#         - text: All post
+#           href: news/index.qmd
+#       - text: Publications
+#         href: publications/index.qmd
+#       - text: Software
+#         href: software/index.qmd
+#       - text: Conferences / Talks
+#         href: talks/index.qmd
+#       - text: About
+#         href: about/index.qmd
+# 
+#     
+# date-format: "D MMMM YYYY"
+# freeze: true
+# 
+# format:
+#   html:
+#     smooth-scroll: true
+#     theme: minty
+#     css: styles.css
+#     link-external-icon: false
+#     link-external-newwindow: true
+#     link-external-filter: ''
+#     citations-hover: true
+#     footnotes-hover: true
+#     include-in-header: meta.html
+#     toc: true
+#     code-link: true
+#    
+# 
+# 
+# comments: 
+#   giscus:
+#     repo: lukeng200/Lukman_Academic_Hub
+# 
+# editor: visual
 
 
