@@ -16,15 +16,10 @@ about:
 comments: false
 ---
 
-
-
 </center>
 
 ::: {#hero-heading}
-Life is a function that depends on many variables (the most high, family, colleagues, friends, supervisors, and many more).<br><br><br/> **Lukman Adeboye Soboyejo** <br><br/> Currently a PhD Student <br> [Univeristy of Melbourne](https://ecosystemforest.unimelb.edu.au/research), Australia <br/>
-<br/>
+Life is a function that depends on many variables (the most high, family, colleagues, friends, supervisors, and many more).<br><br><br/> **Lukman Adeboye Soboyejo** <br><br/> Currently a PhD Student <br> [Univeristy of Melbourne](https://ecosystemforest.unimelb.edu.au/research), Australia <br/> <br/>
 :::
 
 <center>
-
-

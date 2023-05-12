@@ -18,6 +18,9 @@
     ],
     "talks\\index.qmd": [
       "."
+    ],
+    "blogs\\index.qmd": [
+      "**/*/index.qmd"
     ]
   }
 }

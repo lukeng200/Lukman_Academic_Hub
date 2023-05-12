@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lukman Soboyejo - Résumé</title>
+<title>Lukman Soboyejo - Posts</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,12 +60,41 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-talks .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-talks'] = new List('listing-talks', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../styles.css">
-<meta name="twitter:title" content="Lukman Soboyejo - Résumé">
-<meta name="twitter:description" content="">
+<meta name="twitter:title" content="Lukman Soboyejo - Posts">
 <meta name="twitter:creator" content="@Hadeboye">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -85,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../blogs/index.html">
+    <a class="nav-link active" href="../blogs/index.html" aria-current="page">
  <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -112,7 +143,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Conferences / Talks</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../about/index.html" aria-current="page">
+    <a class="nav-link" href="../about/index.html">
  <span class="menu-text">About</span></a>
   </li>  
 </ul>
@@ -122,31 +153,18 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#bio" id="toc-bio" class="nav-link active" data-scroll-target="#bio">Bio</a></li>
-  <li><a href="#address" id="toc-address" class="nav-link" data-scroll-target="#address">Address</a></li>
-  <li><a href="#in-the-news" id="toc-in-the-news" class="nav-link" data-scroll-target="#in-the-news">In the news</a></li>
-  <li><a href="#administrative-responsibilities" id="toc-administrative-responsibilities" class="nav-link" data-scroll-target="#administrative-responsibilities">Administrative responsibilities</a></li>
-  <li><a href="#fellowships-and-memberships" id="toc-fellowships-and-memberships" class="nav-link" data-scroll-target="#fellowships-and-memberships">Fellowships and Memberships</a></li>
-  <li><a href="#trivia" id="toc-trivia" class="nav-link" data-scroll-target="#trivia">Trivia</a></li>
-  <li><a href="#other-interests" id="toc-other-interests" class="nav-link" data-scroll-target="#other-interests">Other interests</a></li>
-  <li><a href="#family-websites" id="toc-family-websites" class="nav-link" data-scroll-target="#family-websites">Family websites</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-cloud"></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Résumé</h1>
+<h1 class="title">Posts</h1>
 </div>
 
 
@@ -161,84 +179,43 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p class="lead">
-</p><p><a href="cv.pdf">Click here</a> to view my CV as an isolated PDF</p>
-<p></p>
-<p></p>
-<object data="CV.pdf" type="application/pdf" width="100%" height="800px">
-<p></p>
-<section id="bio" class="level2">
-<h2 class="anchored" data-anchor-id="bio">Bio</h2>
-<p>The following bio and <a href="../images/Me.jpg"><strong>this photo</strong></a> may be used in media releases without further permission.</p>
-<blockquote class="blockquote">
-<p><strong>Lukman Adeboye Soboye</strong> is graduate researcher in the <a href="https://ecosystemforest.unimelb.edu.au/research">Department of Ecosytem and Forest services</a> at <a href="https://www.unimelb.edu.au/">University of Melbourne</a>.</p>
-</blockquote>
-<div class="columns">
-<div class="column" style="width:30%;">
-<ul class="fa-ul">
-<li>
-<a href=""><i class="fa-li fa-regular fa-file-pdf"></i>Curriculum Vitae</a>
-</li>
-<li>
-<a href=""><i class="fa-li ai ai-google-scholar" style="padding-top:4px;"></i>Google Scholar</a>
-</li>
-<li>
-<a href=""><i class="fa-li ai ai-orcid" style="padding-top:4px;"></i>ORCID</a>
-</li>
-</ul>
-</div><div class="column" style="width:30%;">
-<ul class="fa-ul">
-<li>
-<a href=""><i class="fa-li fa-brands fa-github"></i>GitHub</a>
-</li>
-<li>
-<a href=""><i class="fa-li fa-brands fa-twitter"></i>Twitter</a>
-</li>
-<li>
-<a href=""><i class="fa-li fa-brands fa-wikipedia-w"></i>Wikipedia</a>
-</li>
-</ul>
+<div id="posts">
+
 </div>
-</div>
-</section>
-<section id="address" class="level2">
-<h2 class="anchored" data-anchor-id="address">Address</h2>
-<p><strong>Mail:</strong> School of Ecosystem and Forest Sciences](https://ecosystemforest.unimelb.edu.au/), <a href="https://www.unimelb.edu.au/">University of Melbourne</a>, 500 Yarra Boulevard, Richmond, Victoria 3121, Australia.</p>
-<p><strong>Office:</strong> Engineering Facilities, Building 903, Burnley campus, <a href="https://www.unimelb.edu.au/">University of Melbourne</a>, 500 Yarra Boulevard, Richmond, Victoria 3121, Australia.</p>
-<div class="mapouter">
-<div class="gmap_canvas">
-<iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=500%20Yarra%20Boulevard,%20Richmond,%20Victoria%203121,%20Australia&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0">
-</iframe>
-<p><a href="https://putlocker-is.org">putlocker</a><br></p>
-<style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style>
-<p><a href="https://www.embedgooglemap.net">google map in website</a></p>
-<style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
-</div>
-</div>
-</section>
-<section id="in-the-news" class="level2">
-<h2 class="anchored" data-anchor-id="in-the-news">In the news</h2>
-<p>Here is a list of <a href="../news.qmd">recent news articles about me</a>.</p>
-</section>
-<section id="administrative-responsibilities" class="level2">
-<h2 class="anchored" data-anchor-id="administrative-responsibilities">Administrative responsibilities</h2>
-</section>
-<section id="fellowships-and-memberships" class="level2">
-<h2 class="anchored" data-anchor-id="fellowships-and-memberships">Fellowships and Memberships</h2>
-</section>
-<section id="trivia" class="level2">
-<h2 class="anchored" data-anchor-id="trivia">Trivia</h2>
-</section>
-<section id="other-interests" class="level2">
-<h2 class="anchored" data-anchor-id="other-interests">Other interests</h2>
-</section>
-<section id="family-websites" class="level2">
-<h2 class="anchored" data-anchor-id="family-websites">Family websites</h2>
 
 
-</section>
 
- <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-talks">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-talks-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-talks'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -386,7 +363,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
 });
 </script>
- <!-- /content -->
+</div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">© 1996-2023, Lukman A. Soboyejo</div>   
@@ -417,5 +394,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-</object></main></div><script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

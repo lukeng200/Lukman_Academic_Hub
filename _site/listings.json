@@ -35,5 +35,9 @@
   {
     "listing": "/talks/index.html",
     "items": []
+  },
+  {
+    "listing": "/blogs/index.html",
+    "items": []
   }
 ]

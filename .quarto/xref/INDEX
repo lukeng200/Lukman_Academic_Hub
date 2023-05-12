@@ -103,5 +103,8 @@
   },
   "talks/index.qmd": {
     "index.html": "88d747a3"
+  },
+  "blogs/index.qmd": {
+    "index.html": "05ea4001"
   }
 }
