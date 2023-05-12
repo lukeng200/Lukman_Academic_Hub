@@ -16,11 +16,6 @@ about:
 comments: false
 ---
 
-<center>
-
-::: {.btn-group role="group" aria-label="About"}
-<a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Motivation</button></a> <a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Current</button></a>   <a href="about.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Future Goal</button></a>     
-:::
 
 
 </center>
