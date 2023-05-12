@@ -60,12 +60,7 @@ format:
     include-in-header: meta.html
     toc: true
     code-link: true
-   
 
-
-comments: 
-  giscus:
-    repo: lukeng200/Lukman_Academic_Hub
 
 editor: visual
 
