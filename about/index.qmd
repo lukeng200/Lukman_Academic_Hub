@@ -18,7 +18,7 @@ comments: false
 
 ## Bio
 
-The following bio and [**this photo**](../images/profile.jpg) may be used in media releases without further permission.
+The following bio and [**this photo**](../images/Me.jpg) may be used in media releases without further permission.
 
 > **Lukman Adeboye Soboye** is graduate researcher in the [Department of Ecosytem and Forest services](https://ecosystemforest.unimelb.edu.au/research) at [University of Melbourne](https://www.unimelb.edu.au/).
 
