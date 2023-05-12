@@ -50,7 +50,7 @@ freeze: true
 format:
   html:
     smooth-scroll: true
-    theme: journal
+    theme: minty
     css: styles.css
     link-external-icon: false
     link-external-newwindow: true
