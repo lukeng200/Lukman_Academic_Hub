@@ -1,12 +1,15 @@
 project:
   type: website
+  preview:
+    port: 4200
 
 website:
   title: "Lukman Adeboye Soboyejo"
+  page-navigation: true
   site-url: "https://lukman-academic-hub.netlify.app/"
   page-footer:
     # left: "Blog made with 💜, [Netlify](https://www.netlify.com/), and [Quarto](https://quarto.org/), by Lucas. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
-    left:  "© 1996-2022, Lukman A Soboyejo"
+    left:  "© 1996-2023, Lukman A. Soboyejo"
     background: "#536878" 
     right:
       - icon: github
@@ -25,9 +28,9 @@ website:
   navbar:
     background: "#536878"
     right:
-      - href: luksight/index.qmd
-        text: Luksight blog
-      - text: News
+      # - href: luksight/index.qmd
+      #   text: Luksight blog
+      # - text: News
         menu:
         - text: All post
           href: news/index.qmd
