@@ -1,7 +1,8 @@
 project:
   type: website
-  preview:
-    port: 4200
+  render:
+    - "*.qmd"
+    - "*.md"
 
 website:
   title: "Lukman Adeboye Soboyejo"
