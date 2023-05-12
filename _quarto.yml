@@ -28,18 +28,24 @@ website:
   navbar:
     background: "#536878"
     right:
-      # - href: luksight/index.qmd
-      #   text: Luksight blog
-      # - text: News
+    
+      - href: luksight/index.qmd
+        text: Blog
+        
+      - text: News
         menu:
         - text: All post
           href: news/index.qmd
+          
       - text: Publications
         href: publications/index.qmd
+        
       - text: Software
         href: software/index.qmd
+        
       - text: Conferences / Talks
         href: talks/index.qmd
+        
       - text: About
         href: about/index.qmd
 
@@ -50,7 +56,7 @@ freeze: true
 format:
   html:
     smooth-scroll: true
-    theme: tango
+    theme: journal
     css: styles.css
     link-external-icon: false
     link-external-newwindow: true
