@@ -10,7 +10,7 @@ website:
   page-footer:
     # left: "Blog made with 💜, [Netlify](https://www.netlify.com/), and [Quarto](https://quarto.org/), by Lucas. License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)."
     left:  "© 1996-2023, Lukman A. Soboyejo"
-    background: "#536878" 
+    background: "#766878" 
     right:
       - icon: github
         href: https://github.com/lukeng200
