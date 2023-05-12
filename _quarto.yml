@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Lukman Adeboye Soboyejo"
+  title: "Lukman A. Soboyejo"
   page-navigation: true
   site-url: "https://lukman-academic-hub.netlify.app/"
   page-footer:
