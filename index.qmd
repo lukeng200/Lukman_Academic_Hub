@@ -15,23 +15,14 @@ about:
       href: mailto:lsoboyejo@student.unimelb.edu.au
 comments: false
 ---
-
-
-</center>
 <div class="col-md-8"> <h2 class="featurette-heading">About Me 💜 </h2> <p class="lead">
   
 Life is a function that depends on many variables.
 
 In 2020, I completed an Erasmus Mundus Joint Master Degree in <a href = "https://wacoma.unibo.it/promotion_dissemination.php"> Water and Coastal Management</a>, fully funded by the <a href = "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters-scholarships"> European Union</a>, and hosted by the <a href = "https://corsi.unibo.it/2cycle/wacoma"> University of Bologna</a> (Italy), the <a href = "https://ccmaryambientales.uca.es/water-and-coastal-management-wacoma/"> University of Cadiz</a> (Spain), and the <a href = "https://www.ualg.pt/en/erasmus-mundus"> University of Algarve</a> (Portugal). In Italy, the programme is recognised as the international curriculum of the second cycle degree in LM-75 Environmental Assessment and Management</a>. 
 
-In 2015, I completed my bachelor's degree in <a href = "https://funaab.edu.ng/section/water-resources-management-and-agricultural-meteorology/"> Water Resources Management and Agrometeorology</a> with a major in Hydrology from the Federal University of Agriculture, Abeokuta, Nigeria. </a>
-
-Overall, my background interest and focus have always been about water and earth sciences. The need to gain more insight prompted me to seek more knowledge abroad (MSc and PhD sojourn).</a> 
-
-In the quest of learning, I have acquired numerous skill sets such as data analysis and visualisation (using R and a bit of Python) and models, GIS, GPR, remote sensing, and more.</a> <br>
+In 2015, I completed my bachelor's degree in <a href = "https://funaab.edu.ng/section/water-resources-management-and-agricultural-meteorology/"> Water Resources Management and Agrometeorology</a> with a major in Hydrology from the Federal University of Agriculture, Abeokuta, Nigeria.</a>
 
 <div class="about-link-text">
-**Lukman Adeboye Soboyejo** <br><br/> Currently a PhD Student <br> [Univeristy of Melbourne](https://ecosystemforest.unimelb.edu.au/research), Australia
+**Lukman&nbsp;A&nbsp;Soboyejo** <br><br/> Currently a PhD Student <br> [Univeristy of Melbourne](https://ecosystemforest.unimelb.edu.au/research), Australia
 </div>
-
-<center>

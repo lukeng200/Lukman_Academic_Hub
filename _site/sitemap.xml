@@ -1,111 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lukeng200.com/index.html</loc>
-    <lastmod>2022-10-31T05:06:23.200Z</lastmod>
-  </url>
-  <url>
-    <loc>/index.html</loc>
-    <lastmod>2022-10-28T23:32:48.202Z</lastmod>
-  </url>
-  <url>
-    <loc>/about.html</loc>
-    <lastmod>2022-10-30T07:13:58.143Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/about.html</loc>
-    <lastmod>2022-11-01T00:37:07.668Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/Resume/Resume.html</loc>
-    <lastmod>2022-10-30T07:34:47.289Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/index.html</loc>
-    <lastmod>2022-11-13T10:34:19.810Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/resume/index.html</loc>
-    <lastmod>2022-11-01T00:35:00.051Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukeng200.com/about.html</loc>
-    <lastmod>2022-10-31T05:09:08.601Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/posts/welcome/index.html</loc>
-    <lastmod>2022-10-31T05:16:43.721Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/Publications/index.html</loc>
-    <lastmod>2022-10-31T11:04:48.631Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/publications/index.html</loc>
-    <lastmod>2022-11-13T10:34:43.892Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/publications/yule-walker-estimates-for-continuous-time-autoregressive-models/index.html</loc>
-    <lastmod>2022-10-31T13:15:59.952Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/publications/Different-processes-affecting-long-term-Ravenna-coastal-drainage-basins/index.html</loc>
-    <lastmod>2022-11-01T09:31:50.256Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/LuKaSob.html</loc>
-    <lastmod>2022-11-01T00:53:34.253Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/about/index.html</loc>
-    <lastmod>2022-11-01T09:51:34.540Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/luksight/index.html</loc>
-    <lastmod>2022-11-13T10:30:55.985Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/publications/A-DPSIR-and-SAF-Analysis-of-Water-Insecurity-in-Lake-Chad-Basin-CentralAfrica/index.html</loc>
-    <lastmod>2022-11-01T07:09:36.325Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lukman-academic-hub.netlify.app/talks/index.html</loc>
-    <lastmod>2022-11-02T10:51:55.733Z</lastmod>
-  </url>
-  <url>
-    <loc>https://beamilz.com/index.html</loc>
-    <lastmod>2023-05-12T12:49:38.249Z</lastmod>
-  </url>
-  <url>
-    <loc>https://beamilz.com/about/index.html</loc>
-    <lastmod>2023-05-12T12:49:17.412Z</lastmod>
-  </url>
-  <url>
     <loc>https://lucas-shubby.netlify.app/index.html</loc>
-    <lastmod>2023-05-13T04:05:27.109Z</lastmod>
+    <lastmod>2023-05-13T04:35:47.224Z</lastmod>
   </url>
   <url>
     <loc>https://lucas-shubby.netlify.app/publications/index.html</loc>
-    <lastmod>2023-05-12T13:12:05.749Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lucas-shubby.netlify.app/publications/A-DPSIR-and-SAF-Analysis-of-Water-Insecurity-in-Lake-Chad-Basin-CentralAfrica/index.html</loc>
-    <lastmod>2023-05-12T12:51:09.243Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lucas-shubby.netlify.app/luksight/index.html</loc>
-    <lastmod>2023-05-12T13:01:30.274Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lucas-shubby.netlify.app/blogs/index.html</loc>
-    <lastmod>2023-05-12T13:32:30.258Z</lastmod>
+    <lastmod>2023-05-13T04:20:39.222Z</lastmod>
   </url>
   <url>
     <loc>https://lucas-shubby.netlify.app/about/index.html</loc>
-    <lastmod>2023-05-12T21:09:15.716Z</lastmod>
+    <lastmod>2023-05-13T04:34:37.309Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lucas-shubby.netlify.app/blogs/index.html</loc>
+    <lastmod>2023-05-13T04:20:00.840Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lucas-shubby.netlify.app/posts/post-with-code/index.html</loc>
+    <lastmod>2023-05-13T04:20:05.551Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lucas-shubby.netlify.app/posts/welcome/index.html</loc>
+    <lastmod>2023-05-13T04:20:07.092Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lucas-shubby.netlify.app/publications/A-DPSIR-and-SAF-Analysis-of-Water-Insecurity-in-Lake-Chad-Basin-CentralAfrica/index.html</loc>
+    <lastmod>2023-05-13T04:20:08.728Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lucas-shubby.netlify.app/publications/Different-processes-affecting-long-term-Ravenna-coastal-drainage-basins/index.html</loc>
+    <lastmod>2023-05-13T04:20:10.260Z</lastmod>
   </url>
   <url>
     <loc>https://lucas-shubby.netlify.app/talks/index.html</loc>
-    <lastmod>2023-05-12T13:11:55.803Z</lastmod>
+    <lastmod>2023-05-13T04:20:11.192Z</lastmod>
   </url>
 </urlset>

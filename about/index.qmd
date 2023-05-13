@@ -20,7 +20,8 @@ comments: false
 
 The following bio and [**this photo**](../images/Me.jpg) may be used in media releases without further permission.
 
-> **Lukman Adeboye Soboye** is graduate researcher in the [Department of Ecosytem and Forest services](https://ecosystemforest.unimelb.edu.au/research) at [University of Melbourne](https://www.unimelb.edu.au/).
+> **Lukman Adeboye Soboye** is graduate researcher in the [Department of Ecosytem and Forest services](https://ecosystemforest.unimelb.edu.au/research) at [University of Melbourne](https://www.unimelb.edu.au/). 
+My background interest and focus have always been about water and earth sciences. The need to gain more insight prompted me to seek more knowledge abroad (MSc and PhD sojourn).</a> In the quest of learning, I have acquired numerous skill sets such as data analysis and visualisation (using R and a bit of Python) and models, GIS, GPR, remote sensing, and more.</a> <br><br>
 
 ::: columns
 ::: {.column width="30%"}
