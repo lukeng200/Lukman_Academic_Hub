@@ -4,7 +4,7 @@ project:
     port: 4200
 
 website:
-  title: "Lukman Soboyejo"
+  title: "Lukman A. Soboyejo"
   page-navigation: true
   site-url: "https://lucas-shubby.netlify.app/"
   page-footer:
