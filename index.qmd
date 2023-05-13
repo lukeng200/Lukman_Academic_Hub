@@ -6,7 +6,7 @@ about:
   links:
     - icon: twitter
       text: twitter
-      href: https://twitter.com/Hadeboye
+      href: https://twitter.com/lucas_shubby
     - icon: github
       text: github
       href: https://github.com/lukeng200
