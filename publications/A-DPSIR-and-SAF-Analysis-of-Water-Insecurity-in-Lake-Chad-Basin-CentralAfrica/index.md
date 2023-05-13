@@ -1,5 +1,5 @@
 ---
-author: Lukman Adeboye Soboyejo, Ahmad Mojisola Sakinat, and Abayomi Oluwatobiloba Bankole
+author: Lukman A. Soboyejo, Ahmad M. Sakinat, and Abayomi O. Bankole
 Status: Published
 date: 2021-11-16 02:06:56+00:00
 slug: A-DPSIR-and-SAF-Analysis-of-Water-Insecurity-in-Lake-Chad-Basin-CentralAfrica
