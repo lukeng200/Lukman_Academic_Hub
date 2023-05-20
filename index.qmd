@@ -21,7 +21,6 @@ format:
   html:
     template-partials:
       - html/home/title-block.html
-course-logo: D:/Quarto_academic_blog/Lukman_Academic_Hub/head_3.jpg
 ---
 
 <div class="col-md-8">

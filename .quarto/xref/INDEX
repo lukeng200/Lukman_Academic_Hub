@@ -106,5 +106,8 @@
   },
   "blogs/index.qmd": {
     "index.html": "05ea4001"
+  },
+  "subscribe.md": {
+    "subscribe.html": "1edb8e05"
   }
 }

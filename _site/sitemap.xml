@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://lucas-shubby.netlify.app/index.html</loc>
-    <lastmod>2023-05-20T11:46:34.308Z</lastmod>
+    <lastmod>2023-05-20T12:43:25.801Z</lastmod>
   </url>
   <url>
     <loc>https://lucas-shubby.netlify.app/about/index.html</loc>
-    <lastmod>2023-05-16T00:15:40.785Z</lastmod>
+    <lastmod>2023-05-20T12:28:37.379Z</lastmod>
   </url>
   <url>
     <loc>https://lucas-shubby.netlify.app/blogs/index.html</loc>
-    <lastmod>2023-05-16T00:15:35.842Z</lastmod>
+    <lastmod>2023-05-20T12:28:40.782Z</lastmod>
   </url>
   <url>
     <loc>https://lucas-shubby.netlify.app/posts/post-with-code/index.html</loc>
@@ -35,5 +35,9 @@
   <url>
     <loc>https://lucas-shubby.netlify.app/talks/index.html</loc>
     <lastmod>2023-05-13T10:50:24.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lucas-shubby.netlify.app/subscribe.html</loc>
+    <lastmod>2023-05-20T12:43:01.451Z</lastmod>
   </url>
 </urlset>
