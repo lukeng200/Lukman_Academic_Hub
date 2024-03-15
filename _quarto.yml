@@ -12,8 +12,6 @@ website:
     left:  "© 1996-2023, Lukman A. Soboyejo"
     background: "#536878"
     right:
-      - text: Subscribe
-        href: /subscribe.html         
       - icon: github
         href: https://github.com/lukeng200
       - icon: twitter
